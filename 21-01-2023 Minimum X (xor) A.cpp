@@ -36,7 +36,7 @@ int main(){
 	int a,b;
 	cin >> a >> b;
 	Solution obj
-	cout << ob.minval(a, b);
+	cout << ob.minVal(a, b);
 	cout << "\n";
 	}
 return 0;
