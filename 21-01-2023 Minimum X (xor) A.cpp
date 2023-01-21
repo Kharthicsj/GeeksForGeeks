@@ -35,7 +35,7 @@ int main(){
 	while (t--){
 	int a,b;
 	cin >> a >> b;
-	Solution obj
+	Solution obj;
 	cout << ob.minVal(a, b);
 	cout << "\n";
 	}
